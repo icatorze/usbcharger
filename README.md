@@ -22,3 +22,7 @@ _Input_: 7V to 40V DC, regulated or not. Fits 12V car output or a 12V output wal
 _Ouput_: 2 dual USB A outputs, each can drive 1A max, protected with 2A fuses.
 
 _Based on LM2576-5.0 <https://www.onsemi.com/pdf/datasheet/lm2576-d.pdf> from ONSEMI_
+
+# Schematic and Board
+
+Designed with Eagle 4.16r2. 
