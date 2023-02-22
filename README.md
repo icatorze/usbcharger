@@ -1,5 +1,5 @@
 # USB Charger 
-**USB charger with 4 outputs of 1A each for 12V car output**
+**USB charger 4 outputs 1A each for 12V car output**
 
 Some years ago I designed this power source to charge 4 cell phone at once, each output can driver 1A max.
 
