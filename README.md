@@ -1,3 +1,5 @@
+![USB Charger](https://github.com/icatorze/usbcharger/blob/main/usbcharger.jpg "USB Charger")
+
 # USB Charger 
 **USB charger 4 outputs 1A each for 12V car output**
 
@@ -26,7 +28,3 @@ _Based on LM2576-5.0 <https://www.onsemi.com/pdf/datasheet/lm2576-d.pdf> from ON
 # Schematic and Board
 
 Designed with Eagle 4.16r2. 
-
-# Picture
-
-![USB Charger](https://github.com/icatorze/usbcharger/blob/main/usbcharger.jpg "USB Charger")
